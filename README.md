@@ -6,6 +6,7 @@ Use Python 3.9 or higher
 pip install torch
 
 CLI RUN:
+
 python inference.py --input "C:\Users\SHEEKAR\PycharmProjects\voice remover\input\song-name.mp3" --output_dir "C:\Users\SHEEKAR\PycharmProjects\voice remover\output"
 
 
